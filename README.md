@@ -9,4 +9,4 @@ We examined two kinds of tag reads, “no action” and “browsing” tags. The
 
 **Please cite our paper**
 
-Alfian, G.; Octava, M.Q.H.; Hilmy, F.M.; Nurhaliza, R.A.; Saputra, Y.M.; Putri, D.G.P.; Syahrian, F.; Fitriyani, N.L.; Atmaji, F.T.D.; Farooq, U.; et al. Customer Shopping Behavior Analysis Using RFID and Machine Learning Models. Information 2023, 14, x. https://doi.org/10.3390/xxxxx
+Alfian, G.; Octava, M.Q.H.; Hilmy, F.M.; Nurhaliza, R.A.; Saputra, Y.M.; Putri, D.G.P.; Syahrian, F.; Fitriyani, N.L.; Atmaji, F.T.D.; Farooq, U.; et al. Customer Shopping Behavior Analysis Using RFID and Machine Learning Models. Information 2023, 14, 551. https://doi.org/10.3390/info14100551
